@@ -502,11 +502,11 @@ img { max-width: 100%; height: auto; }
    ========================================================= */
 @media (max-width: 767.98px) {
   .container { padding-left: 20px; padding-right: 20px; }
-  .hero .hero-role{text-align: left;}
+  
   .hero { min-height: 520px; }
-  .hero-title { margin-bottom: 28px; text-align: left; } /* text-align: left;*/
-  .hero-actions { flex-direction: column; align-items: stretch; max-width: 320px; margin: 0 ; }
-  .hero-actions .btn { width: 65%; }
+  .hero-title { margin-bottom: 28px;  } /* text-align: left;*/
+  .hero-actions { flex-direction: column; align-items: stretch; max-width: 320px; margin: 0 auto ; }
+  .hero-actions .btn { width: 100%; }
 
   .section { padding: 40px 0; }
   .section-head { margin-bottom: 32px; }
