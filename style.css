@@ -541,7 +541,7 @@ img { max-width: 100%; height: auto; }
 
   .step-card { min-height: 0; }
 
-  .connect-card { padding: 32px 20px 36px; border-radius: 20px; }
+  .connect-card { padding: 32px 20px 32px; border-radius: 20px; }
   .connect-lead { margin-bottom: 28px; }
   .connect-lead br { display: none; }
 
